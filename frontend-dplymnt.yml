@@ -6,7 +6,7 @@ metadata:
   name: k8-ws-ex2-fend
 
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       tier: frontend
