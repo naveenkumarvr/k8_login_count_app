@@ -8,5 +8,5 @@ spec:
     tier: frontend
   type: LoadBalancer
   ports:
-    - port: 9090
+    - port: 80
       targetPort: 8080
