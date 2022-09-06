@@ -7,7 +7,7 @@ metadata:
     github.com/project-slug: vrnaveenkr/k8_login_count_app
     backstage.io/source-location: https://github.com/vrnaveenkr/k8_login_count_app
   links:
-    - title: Website
+    - title: Repository_Link
       url: https://github.com/vrnaveenkr/k8_login_count_app
 spec:
   type: other
