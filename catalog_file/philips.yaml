@@ -5,7 +5,7 @@ metadata:
   name: philips_interview
   annotations:
     github.com/project-slug: vrnaveenkr/philips_interview
-    backstage.io/source-location: https://github.com/vrnaveenkr/philips_interview
+    backstage.io/source-location: url:https://github.com/vrnaveenkr/philips_interview
   links:
     - title: Repository_Link
       url: https://github.com/vrnaveenkr/philips_interview
