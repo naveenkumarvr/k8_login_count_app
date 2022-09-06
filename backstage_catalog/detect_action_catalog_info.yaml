@@ -1,0 +1,21 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "detect-action"
+  description: "Black Duck Policy report by detect-action"
+  tags:
+    - "detect-action"
+    - "black duck"
+  links:
+    - url: https://github.com/synopsys-sig/detect-action
+      title: detect-action
+      icon: code
+  annotations:
+    github.com/project-slug: synopsys-sig/detect-action
+    backstage.io/source-location: url:https://github.com/synopsys-sig/detect-action
+
+spec:
+  type: github-action
+  lifecycle: production
+  owner: "saasfactory"
