@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Synopsys Detect
+  name: detect-action
   annotations:
     github.com/project-slug: synopsys-sig/detect-action
     backstage.io/source-location: url:https://github.com/synopsys-sig/detect-action
