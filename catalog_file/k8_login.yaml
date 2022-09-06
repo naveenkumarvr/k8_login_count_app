@@ -1,0 +1,14 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: k8_login_count_app
+  annotations:
+    github.com/project-slug: vrnaveenkr/k8_login_count_app
+  links:
+    - title: Website
+      url: https://github.com/vrnaveenkr/k8_login_count_app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
